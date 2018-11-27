@@ -1,54 +1,54 @@
 {
   "result": true,
   "data": {
-    "hash": "DnF1ZXJ5VGhlbkZldGNoBQAAAAAAsPW0FlV2clJJRnBzUThxYzRRMkc1MGdTT0EAAAAAALD1thZVdnJSSUZwc1E4cWM0UTJHNTBnU09BAAAAAACw9bcWVXZyUklGcHNROHFjNFEyRzUwZ1NPQQAAAAAAsPW1FlV2clJJRnBzUThxYzRRMkc1MGdTT0EAAAAAALD1uBZVdnJSSUZwc1E4cWM0UTJHNTBnU09B",
-    "total": 58,
+    "hash": "DnF1ZXJ5VGhlbkZldGNoBQAAAAAAsSxBFlV2clJJRnBzUThxYzRRMkc1MGdTT0EAAAAAALEsQxZVdnJSSUZwc1E4cWM0UTJHNTBnU09BAAAAAACxLEQWVXZyUklGcHNROHFjNFEyRzUwZ1NPQQAAAAAAsSxCFlV2clJJRnBzUThxYzRRMkc1MGdTT0EAAAAAALEsRRZVdnJSSUZwc1E4cWM0UTJHNTBnU09B",
+    "total": 80,
     "data": [
       {
-        "gs1": "C467348690143",
-        "sheetRow": "107",
+        "gs1": "C131958467045",
+        "sheetRow": "130",
         "baseCost": 18,
         "weight": 0,
-        "sku": "CzzCoolDreamsSM",
-        "quantity": 1,
+        "sku": "CzzLlamaCornsSM",
+        "quantity": 5,
         "isActive": true,
         "marketPrice": 50,
-        "vendorName": "Crimson Hill",
         "isEcommerce": true,
         "mapPrice": 43,
         "salePrice": 39,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456199.jpg",
-        "colorGroupName": "Black",
-        "collectionName": "Cool Dreamcatcher ",
-        "designName": "Zzcooldreamsk",
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456305.jpg",
+        "colorGroupName": "Red/Burgundy",
+        "collectionName": "LlamaCorns ",
+        "designName": "Zzllamacornsk",
         "availability": "In-Stock",
         "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
         "size": "SM",
-        "gender": "Women",
+        "gender": "Kids",
         "isPublish": true,
         "productType": "configurable",
-        "fileName": "Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk",
+        "fileName": "Crimson_Hill_LlamaCorns__Zzllamacornsk",
         "images": [
           {
-            "name": "Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8",
-            "imagePrefixPath": "crimson-hill/CoolDreamcatcher/Zzcooldreamsk",
-            "colorGroupName": "Black",
+            "name": "Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe",
+            "imagePrefixPath": "crimson-hill/LlamaCorns/Zzllamacornsk",
+            "colorGroupName": "Red/Burgundy",
             "size": "SM"
           }
         ],
         "imageCategory": [],
         "additionalImages": [],
         "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
         "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/CoolDreamcatcher/Zzcooldreamsk",
+        "imagePrefixPath": "crimson-hill/LlamaCorns/Zzllamacornsk",
         "width_ft": 0,
         "width_in": 0,
         "length_ft": 0,
         "length_in": 0,
-        "createdAt": "2018-11-26T10:38:10.316Z",
-        "updatedAt": "2018-11-26T10:38:10.316Z",
+        "createdAt": "2018-11-26T16:01:19.454Z",
+        "updatedAt": "2018-11-26T16:01:19.454Z",
         "shapeSize": "undefined undefined",
         "baseCost_min_c": 18,
         "baseCost_max_c": 18,
@@ -64,8 +64,8 @@
         "msrpPrice_max_c": 0,
         "shipWeight_min_c": 0,
         "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
         "marketPrice_min_c": 50,
         "marketPrice_max_c": 50,
         "mapPrice_min_c": 43,
@@ -80,8 +80,631 @@
         "wattage_max_c": 0,
         "productTypeConfig": {
           "items": [
-            "5bfbccc1aa69cb8365e7dd2f",
-            "5bfbccc1aa69cb8365e7dd2e"
+            "5bfc13daaa69cb8365e7e0eb",
+            "5bfc13daaa69cb8365e7e0ea"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Red/Burgundy",
+                  "key": "Red/Burgundy",
+                  "val": "Red/Burgundy"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "SM",
+                  "key": "SM",
+                  "val": "SM"
+                },
+                {
+                  "title": "LXL",
+                  "key": "LXL",
+                  "val": "LXL"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Red/Burgundy"
+        ],
+        "size_c": [
+          "SM",
+          "LXL"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18cfaa69cb8365e7e4bf",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/LlamaCorns/Zzllamacornsk/Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/LlamaCorns/Zzllamacornsk/Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/LlamaCorns/Zzllamacornsk/Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe_S.jpg"
+      },
+      {
+        "gs1": "C116906040329",
+        "sheetRow": "220",
+        "baseCost": 18,
+        "weight": 0,
+        "sku": "CzzCoolHareLXL",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 50,
+        "isEcommerce": true,
+        "mapPrice": 43,
+        "salePrice": 40,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525466515.jpg",
+        "colorGroupName": "Gray/Silver",
+        "collectionName": "Cool Hare Kid'S ",
+        "designName": "Zzcoolharek",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "LXL",
+        "gender": "Kids",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Cool_Hare_Kid_S__Zzcoolharek",
+        "images": [
+          {
+            "name": "Crimson_Hill_Cool_Hare_Kid_S__Zzcoolharek_30493070e02b1768e7cd8c907baa645ee08150b8fa34995931cd9ab06c36ff6a",
+            "imagePrefixPath": "crimson-hill/CoolHareKid_S/Zzcoolharek",
+            "colorGroupName": "Gray/Silver",
+            "size": "LXL"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/CoolHareKid_S/Zzcoolharek",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:19.454Z",
+        "updatedAt": "2018-11-26T16:01:19.454Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 18,
+        "baseCost_max_c": 18,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 50,
+        "marketPrice_max_c": 50,
+        "mapPrice_min_c": 43,
+        "mapPrice_max_c": 43,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 40,
+        "salePrice_max_c": 40,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13d7aa69cb8365e7e058",
+            "5bfc13d7aa69cb8365e7e059"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Gray/Silver",
+                  "key": "Gray/Silver",
+                  "val": "Gray/Silver"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "LXL",
+                  "key": "LXL",
+                  "val": "LXL"
+                },
+                {
+                  "title": "SM",
+                  "key": "SM",
+                  "val": "SM"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Gray/Silver"
+        ],
+        "size_c": [
+          "LXL",
+          "SM"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18cfaa69cb8365e7e4c3",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolHareKid_S/Zzcoolharek/Crimson_Hill_Cool_Hare_Kid_S__Zzcoolharek_30493070e02b1768e7cd8c907baa645ee08150b8fa34995931cd9ab06c36ff6a.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolHareKid_S/Zzcoolharek/Crimson_Hill_Cool_Hare_Kid_S__Zzcoolharek_30493070e02b1768e7cd8c907baa645ee08150b8fa34995931cd9ab06c36ff6a_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolHareKid_S/Zzcoolharek/Crimson_Hill_Cool_Hare_Kid_S__Zzcoolharek_30493070e02b1768e7cd8c907baa645ee08150b8fa34995931cd9ab06c36ff6a_S.jpg"
+      },
+      {
+        "gs1": "C134840606512",
+        "sheetRow": "91",
+        "baseCost": 18,
+        "weight": 0,
+        "sku": "CzzSoftballLXL",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 50,
+        "isEcommerce": true,
+        "mapPrice": 43,
+        "salePrice": 39,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525466673.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Softball Life ",
+        "designName": "Zzsoftballk",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "LXL",
+        "gender": "Kids",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Softball_Life__Zzsoftballk",
+        "images": [
+          {
+            "name": "Crimson_Hill_Softball_Life__Zzsoftballk_3279988c3346f9f4d236f0090567070519fac97924b481e876c01e9585fa09f8",
+            "imagePrefixPath": "crimson-hill/SoftballLife/Zzsoftballk",
+            "colorGroupName": "Black",
+            "size": "LXL"
+          },
+          {
+            "name": "Crimson_Hill_Softball_Life__Zzsoftball_3279988c3346f9f4d236f0090567070519fac97924b481e876c01e9585fa09f8",
+            "imagePrefixPath": "crimson-hill/SoftballLife/Zzsoftball",
+            "colorGroupName": "Black",
+            "size": "TC"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/SoftballLife/Zzsoftballk",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:19.455Z",
+        "updatedAt": "2018-11-26T16:01:19.455Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 18,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 50,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 43,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 39,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e0c4",
+            "5bfc13daaa69cb8365e7e0bf",
+            "5bfc13daaa69cb8365e7e0c5"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "LXL",
+                  "key": "LXL",
+                  "val": "LXL"
+                },
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "SM",
+                  "key": "SM",
+                  "val": "SM"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "LXL",
+          "TC",
+          "SM"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18cfaa69cb8365e7e4ca",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SoftballLife/Zzsoftballk/Crimson_Hill_Softball_Life__Zzsoftballk_3279988c3346f9f4d236f0090567070519fac97924b481e876c01e9585fa09f8.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SoftballLife/Zzsoftballk/Crimson_Hill_Softball_Life__Zzsoftballk_3279988c3346f9f4d236f0090567070519fac97924b481e876c01e9585fa09f8_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SoftballLife/Zzsoftballk/Crimson_Hill_Softball_Life__Zzsoftballk_3279988c3346f9f4d236f0090567070519fac97924b481e876c01e9585fa09f8_S.jpg"
+      },
+      {
+        "gs1": "C180342600637",
+        "sheetRow": "190",
+        "baseCost": 18,
+        "weight": 0,
+        "sku": "CzzMardiGrasLXL",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 50,
+        "isEcommerce": true,
+        "mapPrice": 43,
+        "salePrice": 40,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1541534660.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Mardi Gras Kid'S ",
+        "designName": "Zzmardigrask",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "LXL",
+        "gender": "Kids",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Mardi_Gras_Kid_S__Zzmardigrask",
+        "images": [
+          {
+            "name": "Crimson_Hill_Mardi_Gras_Kid_S__Zzmardigrask_7a0595b56772f9cdad9df1e9e1c99d607287dac3f27654818695cc1f82a4e733",
+            "imagePrefixPath": "crimson-hill/MardiGrasKid_S/Zzmardigrask",
+            "colorGroupName": "Black",
+            "size": "LXL"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/MardiGrasKid_S/Zzmardigrask",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:19.455Z",
+        "updatedAt": "2018-11-26T16:01:19.455Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 18,
+        "baseCost_max_c": 18,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 50,
+        "marketPrice_max_c": 50,
+        "mapPrice_min_c": 43,
+        "mapPrice_max_c": 43,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 40,
+        "salePrice_max_c": 40,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e127",
+            "5bfc13daaa69cb8365e7e128"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "LXL",
+                  "key": "LXL",
+                  "val": "LXL"
+                },
+                {
+                  "title": "SM",
+                  "key": "SM",
+                  "val": "SM"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "LXL",
+          "SM"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18cfaa69cb8365e7e4cf",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/MardiGrasKid_S/Zzmardigrask/Crimson_Hill_Mardi_Gras_Kid_S__Zzmardigrask_7a0595b56772f9cdad9df1e9e1c99d607287dac3f27654818695cc1f82a4e733.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/MardiGrasKid_S/Zzmardigrask/Crimson_Hill_Mardi_Gras_Kid_S__Zzmardigrask_7a0595b56772f9cdad9df1e9e1c99d607287dac3f27654818695cc1f82a4e733_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/MardiGrasKid_S/Zzmardigrask/Crimson_Hill_Mardi_Gras_Kid_S__Zzmardigrask_7a0595b56772f9cdad9df1e9e1c99d607287dac3f27654818695cc1f82a4e733_S.jpg"
+      },
+      {
+        "gs1": "C126127197361",
+        "sheetRow": "14",
+        "baseCost": 18,
+        "weight": 0,
+        "sku": "CzzLvdr-515SM",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 50,
+        "isEcommerce": true,
+        "mapPrice": 43,
+        "salePrice": 39,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1534274396.jpg",
+        "colorGroupName": "Pink/Purple",
+        "collectionName": "Solid Lavender Kid's ",
+        "designName": "Zzlvdr-515K",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "SM",
+        "gender": "Kids",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Solid_Lavender_Kid_s__Zzlvdr-515K",
+        "images": [
+          {
+            "name": "Crimson_Hill_Solid_Lavender_Kid_s__Zzlvdr-515K_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a",
+            "imagePrefixPath": "crimson-hill/SolidLavenderKid_s/Zzlvdr-515K",
+            "colorGroupName": "Pink/Purple",
+            "size": "SM"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/SolidLavenderKid_s/Zzlvdr-515K",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:19.456Z",
+        "updatedAt": "2018-11-26T16:01:19.456Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 18,
+        "baseCost_max_c": 18,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 50,
+        "marketPrice_max_c": 50,
+        "mapPrice_min_c": 43,
+        "mapPrice_max_c": 43,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 39,
+        "salePrice_max_c": 39,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e077",
+            "5bfc13daaa69cb8365e7e076"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Pink/Purple",
+                  "key": "Pink/Purple",
+                  "val": "Pink/Purple"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "SM",
+                  "key": "SM",
+                  "val": "SM"
+                },
+                {
+                  "title": "LXL",
+                  "key": "LXL",
+                  "val": "LXL"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Pink/Purple"
+        ],
+        "size_c": [
+          "SM",
+          "LXL"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18cfaa69cb8365e7e4d8",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavenderKid_s/Zzlvdr-515K/Crimson_Hill_Solid_Lavender_Kid_s__Zzlvdr-515K_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavenderKid_s/Zzlvdr-515K/Crimson_Hill_Solid_Lavender_Kid_s__Zzlvdr-515K_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavenderKid_s/Zzlvdr-515K/Crimson_Hill_Solid_Lavender_Kid_s__Zzlvdr-515K_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a_S.jpg"
+      },
+      {
+        "gs1": "C152007941172",
+        "sheetRow": "107",
+        "baseCost": 18,
+        "weight": 0,
+        "sku": "CzzCoolDreamsSM",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 50,
+        "isEcommerce": true,
+        "mapPrice": 43,
+        "salePrice": 39,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456199.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Cool Dreamcatcher ",
+        "designName": "Zzcooldreamsk",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "SM",
+        "gender": "Kids",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk",
+        "images": [
+          {
+            "name": "Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8",
+            "imagePrefixPath": "crimson-hill/CoolDreamcatcher/Zzcooldreamsk",
+            "colorGroupName": "Black",
+            "size": "SM"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/CoolDreamcatcher/Zzcooldreamsk",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:19.456Z",
+        "updatedAt": "2018-11-26T16:01:19.456Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 18,
+        "baseCost_max_c": 18,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 50,
+        "marketPrice_max_c": 50,
+        "mapPrice_min_c": 43,
+        "mapPrice_max_c": 43,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 39,
+        "salePrice_max_c": 39,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e0d4",
+            "5bfc13daaa69cb8365e7e0d3"
           ],
           "options": [
             {
@@ -121,56 +744,178 @@
           "LXL"
         ],
         "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd12aa69cb8365e7ddc5",
+        "id": "5bfc18cfaa69cb8365e7e4d9",
         "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolDreamcatcher/Zzcooldreamsk/Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8.jpg",
         "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolDreamcatcher/Zzcooldreamsk/Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8_T.jpg",
         "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolDreamcatcher/Zzcooldreamsk/Crimson_Hill_Cool_Dreamcatcher__Zzcooldreamsk_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8_S.jpg"
       },
       {
-        "gs1": "C854782445578",
-        "sheetRow": "109",
-        "baseCost": 25,
+        "gs1": "C190802500828",
+        "sheetRow": "216",
+        "baseCost": 18,
         "weight": 0,
-        "sku": "CzzDerbyOS",
-        "quantity": 1,
+        "sku": "CzzPaisleyEggPolkaSM",
+        "quantity": 5,
         "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
+        "marketPrice": 50,
         "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456241.jpg",
+        "mapPrice": 43,
+        "salePrice": 40,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1514569992.jpg",
         "colorGroupName": "Blue/Navy",
-        "collectionName": "Derby Fleur de Lis ",
-        "designName": "Zzderby",
+        "collectionName": "Paisley Egg Polka Kid'S ",
+        "designName": "Zzpaisleyeggpolkak",
         "availability": "In-Stock",
         "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "OS",
-        "gender": "Women",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "SM",
+        "gender": "Kids",
         "isPublish": true,
         "productType": "configurable",
-        "fileName": "Crimson_Hill_Derby_Fleur_de_Lis__Zzderby",
+        "fileName": "Crimson_Hill_Paisley_Egg_Polka_Kid_S__Zzpaisleyeggpolkak",
         "images": [
           {
-            "name": "Crimson_Hill_Derby_Fleur_de_Lis__Zzderby_7ed3b7f97b90da0899d060b8e71fec09bff2132bf415065d5f848962dbc4c605",
-            "imagePrefixPath": "crimson-hill/DerbyFleurdeLis/Zzderby",
+            "name": "Crimson_Hill_Paisley_Egg_Polka_Kid_S__Zzpaisleyeggpolkak_ae00584ae856563c122353d9637b61390c0948c3876bd5805e7aec3c02c2ee30",
+            "imagePrefixPath": "crimson-hill/PaisleyEggPolkaKid_S/Zzpaisleyeggpolkak",
             "colorGroupName": "Blue/Navy",
-            "size": "OS"
+            "size": "SM"
           }
         ],
         "imageCategory": [],
         "additionalImages": [],
         "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
         "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/DerbyFleurdeLis/Zzderby",
+        "imagePrefixPath": "crimson-hill/PaisleyEggPolkaKid_S/Zzpaisleyeggpolkak",
         "width_ft": 0,
         "width_in": 0,
         "length_ft": 0,
         "length_in": 0,
-        "createdAt": "2018-11-26T10:38:10.706Z",
-        "updatedAt": "2018-11-26T10:38:10.706Z",
+        "createdAt": "2018-11-26T16:01:19.456Z",
+        "updatedAt": "2018-11-26T16:01:19.456Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 18,
+        "baseCost_max_c": 18,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 50,
+        "marketPrice_max_c": 50,
+        "mapPrice_min_c": 43,
+        "mapPrice_max_c": 43,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 40,
+        "salePrice_max_c": 40,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13d7aa69cb8365e7e054",
+            "5bfc13d7aa69cb8365e7e053"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Blue/Navy",
+                  "key": "Blue/Navy",
+                  "val": "Blue/Navy"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "SM",
+                  "key": "SM",
+                  "val": "SM"
+                },
+                {
+                  "title": "LXL",
+                  "key": "LXL",
+                  "val": "LXL"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Blue/Navy"
+        ],
+        "size_c": [
+          "SM",
+          "LXL"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18cfaa69cb8365e7e4da",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/PaisleyEggPolkaKid_S/Zzpaisleyeggpolkak/Crimson_Hill_Paisley_Egg_Polka_Kid_S__Zzpaisleyeggpolkak_ae00584ae856563c122353d9637b61390c0948c3876bd5805e7aec3c02c2ee30.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/PaisleyEggPolkaKid_S/Zzpaisleyeggpolkak/Crimson_Hill_Paisley_Egg_Polka_Kid_S__Zzpaisleyeggpolkak_ae00584ae856563c122353d9637b61390c0948c3876bd5805e7aec3c02c2ee30_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/PaisleyEggPolkaKid_S/Zzpaisleyeggpolkak/Crimson_Hill_Paisley_Egg_Polka_Kid_S__Zzpaisleyeggpolkak_ae00584ae856563c122353d9637b61390c0948c3876bd5805e7aec3c02c2ee30_S.jpg"
+      },
+      {
+        "gs1": "C133263958222",
+        "sheetRow": "11",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzLvdr-515OSC",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1534274396.jpg",
+        "colorGroupName": "Pink/Purple",
+        "collectionName": "Solid Lavender ",
+        "designName": "Zzlvdr-515",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "OSC",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Solid_Lavender__Zzlvdr-515",
+        "images": [
+          {
+            "name": "Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a",
+            "imagePrefixPath": "crimson-hill/SolidLavender/Zzlvdr-515",
+            "colorGroupName": "Pink/Purple",
+            "size": "OSC"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/SolidLavender/Zzlvdr-515",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.131Z",
+        "updatedAt": "2018-11-26T16:01:20.131Z",
         "shapeSize": "undefined undefined",
         "baseCost_min_c": 25,
         "baseCost_max_c": 25,
@@ -186,8 +931,8 @@
         "msrpPrice_max_c": 0,
         "shipWeight_min_c": 0,
         "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
         "marketPrice_min_c": 46,
         "marketPrice_max_c": 46,
         "mapPrice_min_c": 39,
@@ -202,9 +947,1083 @@
         "wattage_max_c": 0,
         "productTypeConfig": {
           "items": [
-            "5bfbccc1aa69cb8365e7dd31",
-            "5bfbccc1aa69cb8365e7dd30",
-            "5bfbccc1aa69cb8365e7dd32"
+            "5bfc13daaa69cb8365e7e074",
+            "5bfc13daaa69cb8365e7e072",
+            "5bfc13daaa69cb8365e7e075",
+            "5bfc13daaa69cb8365e7e071",
+            "5bfc13daaa69cb8365e7e073"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Pink/Purple",
+                  "key": "Pink/Purple",
+                  "val": "Pink/Purple"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "OSC",
+                  "key": "OSC",
+                  "val": "OSC"
+                },
+                {
+                  "title": "TCC",
+                  "key": "TCC",
+                  "val": "TCC"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                },
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Pink/Purple"
+        ],
+        "size_c": [
+          "OSC",
+          "TCC",
+          "TW",
+          "TC",
+          "OS"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e4fe",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavender/Zzlvdr-515/Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavender/Zzlvdr-515/Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavender/Zzlvdr-515/Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a_S.jpg"
+      },
+      {
+        "gs1": "C131462083846",
+        "sheetRow": "34",
+        "baseCost": 22,
+        "weight": 0,
+        "sku": "CzzHolPupsOS",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 45,
+        "isEcommerce": true,
+        "mapPrice": 41,
+        "salePrice": 48,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1540932691.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Holiday Pups ",
+        "designName": "Zzholpups",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "OS",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Holiday_Pups__Zzholpups",
+        "images": [
+          {
+            "name": "Crimson_Hill_Holiday_Pups__Zzholpups_4afd7f32e938aebead5766aad5713629d4b75c320983dc632e32b7adfe5579a8",
+            "imagePrefixPath": "crimson-hill/HolidayPups/Zzholpups",
+            "colorGroupName": "Black",
+            "size": "OS"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/HolidayPups/Zzholpups",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.132Z",
+        "updatedAt": "2018-11-26T16:01:20.132Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 22,
+        "baseCost_max_c": 22,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 45,
+        "marketPrice_max_c": 45,
+        "mapPrice_min_c": 41,
+        "mapPrice_max_c": 41,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 48,
+        "salePrice_max_c": 48,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e08b",
+            "5bfc13daaa69cb8365e7e08a",
+            "5bfc13daaa69cb8365e7e08c"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "OS",
+          "TC",
+          "TW"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e502",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/HolidayPups/Zzholpups/Crimson_Hill_Holiday_Pups__Zzholpups_4afd7f32e938aebead5766aad5713629d4b75c320983dc632e32b7adfe5579a8.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/HolidayPups/Zzholpups/Crimson_Hill_Holiday_Pups__Zzholpups_4afd7f32e938aebead5766aad5713629d4b75c320983dc632e32b7adfe5579a8_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/HolidayPups/Zzholpups/Crimson_Hill_Holiday_Pups__Zzholpups_4afd7f32e938aebead5766aad5713629d4b75c320983dc632e32b7adfe5579a8_S.jpg"
+      },
+      {
+        "gs1": "C130950210979",
+        "sheetRow": "96",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzSoccerTC",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1524767739.jpg",
+        "colorGroupName": "Blue/Navy",
+        "collectionName": "Soccer Life ",
+        "designName": "Zzsoccer",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "TC",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Soccer_Life__Zzsoccer",
+        "images": [
+          {
+            "name": "Crimson_Hill_Soccer_Life__Zzsoccer_f436bdcde607ab129544e645aa292e517e75d7a2fc79d337ed8fd5cb581b1b28",
+            "imagePrefixPath": "crimson-hill/SoccerLife/Zzsoccer",
+            "colorGroupName": "Blue/Navy",
+            "size": "TC"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/SoccerLife/Zzsoccer",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.132Z",
+        "updatedAt": "2018-11-26T16:01:20.132Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e0c9",
+            "5bfc13daaa69cb8365e7e0cd",
+            "5bfc13daaa69cb8365e7e0cb",
+            "5bfc13daaa69cb8365e7e0cc",
+            "5bfc13daaa69cb8365e7e0ca"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Blue/Navy",
+                  "key": "Blue/Navy",
+                  "val": "Blue/Navy"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                },
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "OSC",
+                  "key": "OSC",
+                  "val": "OSC"
+                },
+                {
+                  "title": "TCC",
+                  "key": "TCC",
+                  "val": "TCC"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Blue/Navy"
+        ],
+        "size_c": [
+          "TC",
+          "TW",
+          "OS",
+          "OSC",
+          "TCC"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e507",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SoccerLife/Zzsoccer/Crimson_Hill_Soccer_Life__Zzsoccer_f436bdcde607ab129544e645aa292e517e75d7a2fc79d337ed8fd5cb581b1b28.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SoccerLife/Zzsoccer/Crimson_Hill_Soccer_Life__Zzsoccer_f436bdcde607ab129544e645aa292e517e75d7a2fc79d337ed8fd5cb581b1b28_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SoccerLife/Zzsoccer/Crimson_Hill_Soccer_Life__Zzsoccer_f436bdcde607ab129544e645aa292e517e75d7a2fc79d337ed8fd5cb581b1b28_S.jpg"
+      },
+      {
+        "gs1": "C162193172691",
+        "sheetRow": "104",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzCoolDreamsOS",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456199.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Cool Dreamcatcher ",
+        "designName": "Zzcooldreams",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "OS",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Cool_Dreamcatcher__Zzcooldreams",
+        "images": [
+          {
+            "name": "Crimson_Hill_Cool_Dreamcatcher__Zzcooldreams_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8",
+            "imagePrefixPath": "crimson-hill/CoolDreamcatcher/Zzcooldreams",
+            "colorGroupName": "Black",
+            "size": "OS"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/CoolDreamcatcher/Zzcooldreams",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.132Z",
+        "updatedAt": "2018-11-26T16:01:20.132Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e0d1",
+            "5bfc13daaa69cb8365e7e0d0",
+            "5bfc13daaa69cb8365e7e0d2"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "OS",
+          "TC",
+          "TW"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e508",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolDreamcatcher/Zzcooldreams/Crimson_Hill_Cool_Dreamcatcher__Zzcooldreams_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolDreamcatcher/Zzcooldreams/Crimson_Hill_Cool_Dreamcatcher__Zzcooldreams_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/CoolDreamcatcher/Zzcooldreams/Crimson_Hill_Cool_Dreamcatcher__Zzcooldreams_6bdcceb5674d9c857374504aa88beebea9e8c9eb3068e573fef6a9f9ce80a5a8_S.jpg"
+      },
+      {
+        "gs1": "C125999508395",
+        "sheetRow": "131",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzBlackPolkaTC",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456096.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Black Polka Dot ",
+        "designName": "Zzblackpolka",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "TC",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Black_Polka_Dot__Zzblackpolka",
+        "images": [
+          {
+            "name": "Crimson_Hill_Black_Polka_Dot__Zzblackpolka_f25cba4fdf0588efc4ae867b6f93cc9d5c3839fd32cd059c77112d91e78295cd",
+            "imagePrefixPath": "crimson-hill/BlackPolkaDot/Zzblackpolka",
+            "colorGroupName": "Black",
+            "size": "TC"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/BlackPolkaDot/Zzblackpolka",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.133Z",
+        "updatedAt": "2018-11-26T16:01:20.133Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e0ec",
+            "5bfc13daaa69cb8365e7e0ed",
+            "5bfc13daaa69cb8365e7e0ee"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "TC",
+          "OS",
+          "TW"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e50c",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/BlackPolkaDot/Zzblackpolka/Crimson_Hill_Black_Polka_Dot__Zzblackpolka_f25cba4fdf0588efc4ae867b6f93cc9d5c3839fd32cd059c77112d91e78295cd.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/BlackPolkaDot/Zzblackpolka/Crimson_Hill_Black_Polka_Dot__Zzblackpolka_f25cba4fdf0588efc4ae867b6f93cc9d5c3839fd32cd059c77112d91e78295cd_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/BlackPolkaDot/Zzblackpolka/Crimson_Hill_Black_Polka_Dot__Zzblackpolka_f25cba4fdf0588efc4ae867b6f93cc9d5c3839fd32cd059c77112d91e78295cd_S.jpg"
+      },
+      {
+        "gs1": "C176808308395",
+        "sheetRow": "151",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzCampersTC",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1524767539.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Campers ",
+        "designName": "Zzcampers",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "TC",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Campers__Zzcampers",
+        "images": [
+          {
+            "name": "Crimson_Hill_Campers__Zzcampers_63b113f963cc1e91e574dfad3fbc09a64542b5a7b0827c59ae085f6349bec716",
+            "imagePrefixPath": "crimson-hill/Campers/Zzcampers",
+            "colorGroupName": "Black",
+            "size": "TC"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/Campers/Zzcampers",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.133Z",
+        "updatedAt": "2018-11-26T16:01:20.133Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e100",
+            "5bfc13daaa69cb8365e7e101",
+            "5bfc13daaa69cb8365e7e103",
+            "5bfc13daaa69cb8365e7e102",
+            "5bfc13daaa69cb8365e7e104"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "TCC",
+                  "key": "TCC",
+                  "val": "TCC"
+                },
+                {
+                  "title": "OSC",
+                  "key": "OSC",
+                  "val": "OSC"
+                },
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "TC",
+          "TCC",
+          "OSC",
+          "OS",
+          "TW"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e50e",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/Campers/Zzcampers/Crimson_Hill_Campers__Zzcampers_63b113f963cc1e91e574dfad3fbc09a64542b5a7b0827c59ae085f6349bec716.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/Campers/Zzcampers/Crimson_Hill_Campers__Zzcampers_63b113f963cc1e91e574dfad3fbc09a64542b5a7b0827c59ae085f6349bec716_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/Campers/Zzcampers/Crimson_Hill_Campers__Zzcampers_63b113f963cc1e91e574dfad3fbc09a64542b5a7b0827c59ae085f6349bec716_S.jpg"
+      },
+      {
+        "gs1": "C194405021390",
+        "sheetRow": "188",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzMardiGrasOS",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1541534625.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Mardi Gras ",
+        "designName": "Zzmardigras",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "OS",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Mardi_Gras__Zzmardigras",
+        "images": [
+          {
+            "name": "Crimson_Hill_Mardi_Gras__Zzmardigras_1e6c19c211ef6c4adfc31f3b33bd2cd961f7196272b082fc05279118ed860cff",
+            "imagePrefixPath": "crimson-hill/MardiGras/Zzmardigras",
+            "colorGroupName": "Black",
+            "size": "OS"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/MardiGras/Zzmardigras",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.133Z",
+        "updatedAt": "2018-11-26T16:01:20.133Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e125",
+            "5bfc13daaa69cb8365e7e124",
+            "5bfc13daaa69cb8365e7e126"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "OS",
+          "TC",
+          "TW"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e512",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/MardiGras/Zzmardigras/Crimson_Hill_Mardi_Gras__Zzmardigras_1e6c19c211ef6c4adfc31f3b33bd2cd961f7196272b082fc05279118ed860cff.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/MardiGras/Zzmardigras/Crimson_Hill_Mardi_Gras__Zzmardigras_1e6c19c211ef6c4adfc31f3b33bd2cd961f7196272b082fc05279118ed860cff_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/MardiGras/Zzmardigras/Crimson_Hill_Mardi_Gras__Zzmardigras_1e6c19c211ef6c4adfc31f3b33bd2cd961f7196272b082fc05279118ed860cff_S.jpg"
+      },
+      {
+        "gs1": "C156515044103",
+        "sheetRow": "59",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzMRoseOS",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525466634.jpg",
+        "colorGroupName": "Black",
+        "collectionName": "Midnight Rose ",
+        "designName": "Zzmrose",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "OS",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Midnight_Rose__Zzmrose",
+        "images": [
+          {
+            "name": "Crimson_Hill_Midnight_Rose__Zzmrose_86982686b9b37117a22b08a7f82bb5d1b6437ae286c79a42fcd9a6b73d669ff9",
+            "imagePrefixPath": "crimson-hill/MidnightRose/Zzmrose",
+            "colorGroupName": "Black",
+            "size": "OS"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/MidnightRose/Zzmrose",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.134Z",
+        "updatedAt": "2018-11-26T16:01:20.134Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e0a4",
+            "5bfc13daaa69cb8365e7e0a5",
+            "5bfc13daaa69cb8365e7e0a3"
+          ],
+          "options": [
+            {
+              "name": "colorGroupName",
+              "fieldName": "colorGroupName",
+              "items": [
+                {
+                  "title": "Black",
+                  "key": "Black",
+                  "val": "Black"
+                }
+              ]
+            },
+            {
+              "name": "size",
+              "fieldName": "size",
+              "items": [
+                {
+                  "title": "OS",
+                  "key": "OS",
+                  "val": "OS"
+                },
+                {
+                  "title": "TW",
+                  "key": "TW",
+                  "val": "TW"
+                },
+                {
+                  "title": "TC",
+                  "key": "TC",
+                  "val": "TC"
+                }
+              ]
+            }
+          ]
+        },
+        "colorGroupName_c": [
+          "Black"
+        ],
+        "size_c": [
+          "OS",
+          "TW",
+          "TC"
+        ],
+        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
+        "id": "5bfc18d0aa69cb8365e7e51a",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/MidnightRose/Zzmrose/Crimson_Hill_Midnight_Rose__Zzmrose_86982686b9b37117a22b08a7f82bb5d1b6437ae286c79a42fcd9a6b73d669ff9.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/MidnightRose/Zzmrose/Crimson_Hill_Midnight_Rose__Zzmrose_86982686b9b37117a22b08a7f82bb5d1b6437ae286c79a42fcd9a6b73d669ff9_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/MidnightRose/Zzmrose/Crimson_Hill_Midnight_Rose__Zzmrose_86982686b9b37117a22b08a7f82bb5d1b6437ae286c79a42fcd9a6b73d669ff9_S.jpg"
+      },
+      {
+        "gs1": "C157805540592",
+        "sheetRow": "175",
+        "baseCost": 25,
+        "weight": 0,
+        "sku": "CzzSPShamskullsOS",
+        "quantity": 5,
+        "isActive": true,
+        "marketPrice": 46,
+        "isEcommerce": true,
+        "mapPrice": 39,
+        "salePrice": 55,
+        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1515446485.jpg",
+        "colorGroupName": "Blue/Navy",
+        "collectionName": "Shamskulls ",
+        "designName": "Zzspshamskulls",
+        "availability": "In-Stock",
+        "deliveryType": "Physical",
+        "primaryMaterial": "92% Polyester",
+        "secondaryMaterial": "8% Spandex Fabric",
+        "size": "OS",
+        "gender": "Women",
+        "isPublish": true,
+        "productType": "configurable",
+        "fileName": "Crimson_Hill_Shamskulls__Zzspshamskulls",
+        "images": [
+          {
+            "name": "Crimson_Hill_Shamskulls__Zzspshamskulls_87ca0f2e190a02c448921c27ec97e217803547a33023694e85a9a5bde1928f85",
+            "imagePrefixPath": "crimson-hill/Shamskulls/Zzspshamskulls",
+            "colorGroupName": "Blue/Navy",
+            "size": "OS"
+          }
+        ],
+        "imageCategory": [],
+        "additionalImages": [],
+        "vendorUniqueId": "Crimson Hill",
+        "vendorOwner": "5bfc10e0aa69cb8365e7e033",
+        "isNewArrival": true,
+        "imagePrefixPath": "crimson-hill/Shamskulls/Zzspshamskulls",
+        "width_ft": 0,
+        "width_in": 0,
+        "length_ft": 0,
+        "length_in": 0,
+        "createdAt": "2018-11-26T16:01:20.135Z",
+        "updatedAt": "2018-11-26T16:01:20.135Z",
+        "shapeSize": "undefined undefined",
+        "baseCost_min_c": 25,
+        "baseCost_max_c": 25,
+        "shipCountOfCarton_min_c": 0,
+        "shipCountOfCarton_max_c": 0,
+        "shipWidth_min_c": 0,
+        "shipWidth_max_c": 0,
+        "weight_min_c": 0,
+        "weight_max_c": 0,
+        "warrantyMonthCount_min_c": 0,
+        "warrantyMonthCount_max_c": 0,
+        "msrpPrice_min_c": 0,
+        "msrpPrice_max_c": 0,
+        "shipWeight_min_c": 0,
+        "shipWeight_max_c": 0,
+        "quantity_min_c": 5,
+        "quantity_max_c": 5,
+        "marketPrice_min_c": 46,
+        "marketPrice_max_c": 46,
+        "mapPrice_min_c": 39,
+        "mapPrice_max_c": 39,
+        "shipHeight_min_c": 0,
+        "shipHeight_max_c": 0,
+        "salePrice_min_c": 55,
+        "salePrice_max_c": 55,
+        "shipLength_min_c": 0,
+        "shipLength_max_c": 0,
+        "wattage_min_c": 0,
+        "wattage_max_c": 0,
+        "productTypeConfig": {
+          "items": [
+            "5bfc13daaa69cb8365e7e118",
+            "5bfc13daaa69cb8365e7e117",
+            "5bfc13daaa69cb8365e7e119"
           ],
           "options": [
             {
@@ -250,1802 +2069,10 @@
           "TW"
         ],
         "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd12aa69cb8365e7ddc9",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/DerbyFleurdeLis/Zzderby/Crimson_Hill_Derby_Fleur_de_Lis__Zzderby_7ed3b7f97b90da0899d060b8e71fec09bff2132bf415065d5f848962dbc4c605.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/DerbyFleurdeLis/Zzderby/Crimson_Hill_Derby_Fleur_de_Lis__Zzderby_7ed3b7f97b90da0899d060b8e71fec09bff2132bf415065d5f848962dbc4c605_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/DerbyFleurdeLis/Zzderby/Crimson_Hill_Derby_Fleur_de_Lis__Zzderby_7ed3b7f97b90da0899d060b8e71fec09bff2132bf415065d5f848962dbc4c605_S.jpg"
-      },
-      {
-        "gs1": "C287837816544",
-        "sheetRow": "29",
-        "baseCost": 16,
-        "weight": 0,
-        "sku": "CzzBlkSnowflakesSM",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 48,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 44,
-        "salePrice": 35,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1540933149.jpg",
-        "colorGroupName": "Black",
-        "collectionName": "Black Snowflakes Kid's ",
-        "designName": "Zzblksnowflakesk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "SM",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Black_Snowflakes_Kid_s__Zzblksnowflakesk",
-        "images": [
-          {
-            "name": "Crimson_Hill_Black_Snowflakes_Kid_s__Zzblksnowflakesk_a4e998aa37fbe66c2a4d67a0722bc55be9069ec401d6f83dbdcad64a28fea842",
-            "imagePrefixPath": "crimson-hill/BlackSnowflakesKid_s/Zzblksnowflakesk",
-            "colorGroupName": "Black",
-            "size": "SM"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/BlackSnowflakesKid_s/Zzblksnowflakesk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:08.310Z",
-        "updatedAt": "2018-11-26T10:38:08.310Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 16,
-        "baseCost_max_c": 16,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 48,
-        "marketPrice_max_c": 48,
-        "mapPrice_min_c": 44,
-        "mapPrice_max_c": 44,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 35,
-        "salePrice_max_c": 35,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dce1",
-            "5bfbccc1aa69cb8365e7dce0"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Black",
-                  "key": "Black",
-                  "val": "Black"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                },
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Black"
-        ],
-        "size_c": [
-          "SM",
-          "LXL"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd10aa69cb8365e7ddb7",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/BlackSnowflakesKid_s/Zzblksnowflakesk/Crimson_Hill_Black_Snowflakes_Kid_s__Zzblksnowflakesk_a4e998aa37fbe66c2a4d67a0722bc55be9069ec401d6f83dbdcad64a28fea842.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/BlackSnowflakesKid_s/Zzblksnowflakesk/Crimson_Hill_Black_Snowflakes_Kid_s__Zzblksnowflakesk_a4e998aa37fbe66c2a4d67a0722bc55be9069ec401d6f83dbdcad64a28fea842_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/BlackSnowflakesKid_s/Zzblksnowflakesk/Crimson_Hill_Black_Snowflakes_Kid_s__Zzblksnowflakesk_a4e998aa37fbe66c2a4d67a0722bc55be9069ec401d6f83dbdcad64a28fea842_S.jpg"
-      },
-      {
-        "gs1": "C846100268460",
-        "sheetRow": "23",
-        "baseCost": 16,
-        "weight": 0,
-        "sku": "CzzHolPlaidLXL",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 48,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 44,
-        "salePrice": 35,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1540932514.jpg",
-        "colorGroupName": "Brown",
-        "collectionName": "Holiday Plaid Kid's ",
-        "designName": "Zzholplaidk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "LXL",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Holiday_Plaid_Kid_s__Zzholplaidk",
-        "images": [
-          {
-            "name": "Crimson_Hill_Holiday_Plaid_Kid_s__Zzholplaidk_5f2ccbf7e0b3b1e8ef1b805810b380efd0297189d3e932c0c635a17ec4400361",
-            "imagePrefixPath": "crimson-hill/HolidayPlaidKid_s/Zzholplaidk",
-            "colorGroupName": "Brown",
-            "size": "LXL"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/HolidayPlaidKid_s/Zzholplaidk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:13.519Z",
-        "updatedAt": "2018-11-26T10:38:13.519Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 16,
-        "baseCost_max_c": 16,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 48,
-        "marketPrice_max_c": 48,
-        "mapPrice_min_c": 44,
-        "mapPrice_max_c": 44,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 35,
-        "salePrice_max_c": 35,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dcdb",
-            "5bfbccc1aa69cb8365e7dcdc"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Brown",
-                  "key": "Brown",
-                  "val": "Brown"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                },
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Brown"
-        ],
-        "size_c": [
-          "LXL",
-          "SM"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd15aa69cb8365e7ddd9",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/HolidayPlaidKid_s/Zzholplaidk/Crimson_Hill_Holiday_Plaid_Kid_s__Zzholplaidk_5f2ccbf7e0b3b1e8ef1b805810b380efd0297189d3e932c0c635a17ec4400361.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/HolidayPlaidKid_s/Zzholplaidk/Crimson_Hill_Holiday_Plaid_Kid_s__Zzholplaidk_5f2ccbf7e0b3b1e8ef1b805810b380efd0297189d3e932c0c635a17ec4400361_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/HolidayPlaidKid_s/Zzholplaidk/Crimson_Hill_Holiday_Plaid_Kid_s__Zzholplaidk_5f2ccbf7e0b3b1e8ef1b805810b380efd0297189d3e932c0c635a17ec4400361_S.jpg"
-      },
-      {
-        "gs1": "C408582115077",
-        "sheetRow": "130",
-        "baseCost": 18,
-        "weight": 0,
-        "sku": "CzzLlamaCornsSM",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 50,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 43,
-        "salePrice": 39,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456305.jpg",
-        "colorGroupName": "Red/Burgundy",
-        "collectionName": "LlamaCorns ",
-        "designName": "Zzllamacornsk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "SM",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_LlamaCorns__Zzllamacornsk",
-        "images": [
-          {
-            "name": "Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe",
-            "imagePrefixPath": "crimson-hill/LlamaCorns/Zzllamacornsk",
-            "colorGroupName": "Red/Burgundy",
-            "size": "SM"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/LlamaCorns/Zzllamacornsk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:15.509Z",
-        "updatedAt": "2018-11-26T10:38:15.509Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 18,
-        "baseCost_max_c": 18,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 50,
-        "marketPrice_max_c": 50,
-        "mapPrice_min_c": 43,
-        "mapPrice_max_c": 43,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 39,
-        "salePrice_max_c": 39,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd46",
-            "5bfbccc1aa69cb8365e7dd45"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Red/Burgundy",
-                  "key": "Red/Burgundy",
-                  "val": "Red/Burgundy"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                },
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Red/Burgundy"
-        ],
-        "size_c": [
-          "SM",
-          "LXL"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd17aa69cb8365e7dde5",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/LlamaCorns/Zzllamacornsk/Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/LlamaCorns/Zzllamacornsk/Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/LlamaCorns/Zzllamacornsk/Crimson_Hill_LlamaCorns__Zzllamacornsk_7c604277a594763f956a94826e8f469f0ce1dc8f26401592f1c2c8006ce917fe_S.jpg"
-      },
-      {
-        "gs1": "C398584231860",
-        "sheetRow": "78",
-        "baseCost": 25,
-        "weight": 0,
-        "sku": "CzzLotusPaisleyTW",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456260.jpg",
-        "colorGroupName": "Green",
-        "collectionName": "Lotus Paisley ",
-        "designName": "Zzlotuspaisley",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "TW",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Lotus_Paisley__Zzlotuspaisley",
-        "images": [
-          {
-            "name": "Crimson_Hill_Lotus_Paisley__Zzlotuspaisley_6ada180b59fe0d59bfb941257d9353a85d879aec9272a4dc5b553038eb708673",
-            "imagePrefixPath": "crimson-hill/LotusPaisley/Zzlotuspaisley",
-            "colorGroupName": "Green",
-            "size": "TW"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/LotusPaisley/Zzlotuspaisley",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:15.912Z",
-        "updatedAt": "2018-11-26T10:38:15.912Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 25,
-        "baseCost_max_c": 25,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 46,
-        "marketPrice_max_c": 46,
-        "mapPrice_min_c": 39,
-        "mapPrice_max_c": 39,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 55,
-        "salePrice_max_c": 55,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd12",
-            "5bfbccc1aa69cb8365e7dd10",
-            "5bfbccc1aa69cb8365e7dd11"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Green",
-                  "key": "Green",
-                  "val": "Green"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "TW",
-                  "key": "TW",
-                  "val": "TW"
-                },
-                {
-                  "title": "TC",
-                  "key": "TC",
-                  "val": "TC"
-                },
-                {
-                  "title": "OS",
-                  "key": "OS",
-                  "val": "OS"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Green"
-        ],
-        "size_c": [
-          "TW",
-          "TC",
-          "OS"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd17aa69cb8365e7dde9",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/LotusPaisley/Zzlotuspaisley/Crimson_Hill_Lotus_Paisley__Zzlotuspaisley_6ada180b59fe0d59bfb941257d9353a85d879aec9272a4dc5b553038eb708673.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/LotusPaisley/Zzlotuspaisley/Crimson_Hill_Lotus_Paisley__Zzlotuspaisley_6ada180b59fe0d59bfb941257d9353a85d879aec9272a4dc5b553038eb708673_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/LotusPaisley/Zzlotuspaisley/Crimson_Hill_Lotus_Paisley__Zzlotuspaisley_6ada180b59fe0d59bfb941257d9353a85d879aec9272a4dc5b553038eb708673_S.jpg"
-      },
-      {
-        "gs1": "C551099360237",
-        "sheetRow": "118",
-        "baseCost": 25,
-        "weight": 0,
-        "sku": "CzzPHGTW",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456379.jpg",
-        "colorGroupName": "Black",
-        "collectionName": "Potter Houses and Glasses ",
-        "designName": "Zzphg",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "TW",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Potter_Houses_and_Glasses__Zzphg",
-        "images": [
-          {
-            "name": "Crimson_Hill_Potter_Houses_and_Glasses__Zzphg_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013",
-            "imagePrefixPath": "crimson-hill/PotterHousesandGlasses/Zzphg",
-            "colorGroupName": "Black",
-            "size": "TW"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/PotterHousesandGlasses/Zzphg",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:17.115Z",
-        "updatedAt": "2018-11-26T10:38:17.115Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 25,
-        "baseCost_max_c": 25,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 46,
-        "marketPrice_max_c": 46,
-        "mapPrice_min_c": 39,
-        "mapPrice_max_c": 39,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 55,
-        "salePrice_max_c": 55,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd3a",
-            "5bfbccc1aa69cb8365e7dd37",
-            "5bfbccc1aa69cb8365e7dd39",
-            "5bfbccc1aa69cb8365e7dd36",
-            "5bfbccc1aa69cb8365e7dd38"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Black",
-                  "key": "Black",
-                  "val": "Black"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "TW",
-                  "key": "TW",
-                  "val": "TW"
-                },
-                {
-                  "title": "TCC",
-                  "key": "TCC",
-                  "val": "TCC"
-                },
-                {
-                  "title": "OSC",
-                  "key": "OSC",
-                  "val": "OSC"
-                },
-                {
-                  "title": "TC",
-                  "key": "TC",
-                  "val": "TC"
-                },
-                {
-                  "title": "OS",
-                  "key": "OS",
-                  "val": "OS"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Black"
-        ],
-        "size_c": [
-          "TW",
-          "TCC",
-          "OSC",
-          "TC",
-          "OS"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd19aa69cb8365e7ddf1",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/PotterHousesandGlasses/Zzphg/Crimson_Hill_Potter_Houses_and_Glasses__Zzphg_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/PotterHousesandGlasses/Zzphg/Crimson_Hill_Potter_Houses_and_Glasses__Zzphg_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/PotterHousesandGlasses/Zzphg/Crimson_Hill_Potter_Houses_and_Glasses__Zzphg_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013_S.jpg"
-      },
-      {
-        "gs1": "C652345974086",
-        "sheetRow": "120",
-        "baseCost": 18,
-        "weight": 0,
-        "sku": "CzzPHGSM",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 50,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 43,
-        "salePrice": 39,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456379.jpg",
-        "colorGroupName": "Black",
-        "collectionName": "Potter Houses and Glasses ",
-        "designName": "Zzphgk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "SM",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Potter_Houses_and_Glasses__Zzphgk",
-        "images": [
-          {
-            "name": "Crimson_Hill_Potter_Houses_and_Glasses__Zzphgk_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013",
-            "imagePrefixPath": "crimson-hill/PotterHousesandGlasses/Zzphgk",
-            "colorGroupName": "Black",
-            "size": "SM"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/PotterHousesandGlasses/Zzphgk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:17.115Z",
-        "updatedAt": "2018-11-26T10:38:17.115Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 18,
-        "baseCost_max_c": 18,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 50,
-        "marketPrice_max_c": 50,
-        "mapPrice_min_c": 43,
-        "mapPrice_max_c": 43,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 39,
-        "salePrice_max_c": 39,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd3c",
-            "5bfbccc1aa69cb8365e7dd3b"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Black",
-                  "key": "Black",
-                  "val": "Black"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                },
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Black"
-        ],
-        "size_c": [
-          "SM",
-          "LXL"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd19aa69cb8365e7ddf2",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/PotterHousesandGlasses/Zzphgk/Crimson_Hill_Potter_Houses_and_Glasses__Zzphgk_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/PotterHousesandGlasses/Zzphgk/Crimson_Hill_Potter_Houses_and_Glasses__Zzphgk_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/PotterHousesandGlasses/Zzphgk/Crimson_Hill_Potter_Houses_and_Glasses__Zzphgk_8f5f2f9a553fb2ba3a3f1283823a7de9b58bffaca9cd13bff2cee5b874c3d013_S.jpg"
-      },
-      {
-        "gs1": "C550071057048",
-        "sheetRow": "112",
-        "baseCost": 25,
-        "weight": 0,
-        "sku": "CzzRainRainOS",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456434.jpg",
-        "colorGroupName": "Blue/Navy",
-        "collectionName": "Rain Rain Go Away ",
-        "designName": "Zzrainrain",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "OS",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Rain_Rain_Go_Away__Zzrainrain",
-        "images": [
-          {
-            "name": "Crimson_Hill_Rain_Rain_Go_Away__Zzrainrain_f0415ef76820df5a23b8e8ddca0e8be6c4f4629acc898a5f2cb944cd9c9ce84a",
-            "imagePrefixPath": "crimson-hill/RainRainGoAway/Zzrainrain",
-            "colorGroupName": "Blue/Navy",
-            "size": "OS"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/RainRainGoAway/Zzrainrain",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:17.501Z",
-        "updatedAt": "2018-11-26T10:38:17.501Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 25,
-        "baseCost_max_c": 25,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 46,
-        "marketPrice_max_c": 46,
-        "mapPrice_min_c": 39,
-        "mapPrice_max_c": 39,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 55,
-        "salePrice_max_c": 55,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd34",
-            "5bfbccc1aa69cb8365e7dd35",
-            "5bfbccc1aa69cb8365e7dd33"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Blue/Navy",
-                  "key": "Blue/Navy",
-                  "val": "Blue/Navy"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "OS",
-                  "key": "OS",
-                  "val": "OS"
-                },
-                {
-                  "title": "TW",
-                  "key": "TW",
-                  "val": "TW"
-                },
-                {
-                  "title": "TC",
-                  "key": "TC",
-                  "val": "TC"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Blue/Navy"
-        ],
-        "size_c": [
-          "OS",
-          "TW",
-          "TC"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd19aa69cb8365e7ddf5",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/RainRainGoAway/Zzrainrain/Crimson_Hill_Rain_Rain_Go_Away__Zzrainrain_f0415ef76820df5a23b8e8ddca0e8be6c4f4629acc898a5f2cb944cd9c9ce84a.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/RainRainGoAway/Zzrainrain/Crimson_Hill_Rain_Rain_Go_Away__Zzrainrain_f0415ef76820df5a23b8e8ddca0e8be6c4f4629acc898a5f2cb944cd9c9ce84a_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/RainRainGoAway/Zzrainrain/Crimson_Hill_Rain_Rain_Go_Away__Zzrainrain_f0415ef76820df5a23b8e8ddca0e8be6c4f4629acc898a5f2cb944cd9c9ce84a_S.jpg"
-      },
-      {
-        "gs1": "C301374556306",
-        "sheetRow": "143",
-        "baseCost": 18,
-        "weight": 0,
-        "sku": "CzzSmoresSM",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 50,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 43,
-        "salePrice": 39,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1524767678.jpg",
-        "colorGroupName": "Blue/Navy",
-        "collectionName": "Smores and Campfires ",
-        "designName": "Zzsmoresk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "SM",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Smores_and_Campfires__Zzsmoresk",
-        "images": [
-          {
-            "name": "Crimson_Hill_Smores_and_Campfires__Zzsmoresk_3c042d1ca2af2ca1accbf0333b38921a0d87dd0ce298b8a783b512ea79740e62",
-            "imagePrefixPath": "crimson-hill/SmoresandCampfires/Zzsmoresk",
-            "colorGroupName": "Blue/Navy",
-            "size": "SM"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/SmoresandCampfires/Zzsmoresk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:19.911Z",
-        "updatedAt": "2018-11-26T10:38:19.911Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 18,
-        "baseCost_max_c": 18,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 50,
-        "marketPrice_max_c": 50,
-        "mapPrice_min_c": 43,
-        "mapPrice_max_c": 43,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 39,
-        "salePrice_max_c": 39,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd53",
-            "5bfbccc1aa69cb8365e7dd52"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Blue/Navy",
-                  "key": "Blue/Navy",
-                  "val": "Blue/Navy"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                },
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Blue/Navy"
-        ],
-        "size_c": [
-          "SM",
-          "LXL"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd1baa69cb8365e7ddfe",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SmoresandCampfires/Zzsmoresk/Crimson_Hill_Smores_and_Campfires__Zzsmoresk_3c042d1ca2af2ca1accbf0333b38921a0d87dd0ce298b8a783b512ea79740e62.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SmoresandCampfires/Zzsmoresk/Crimson_Hill_Smores_and_Campfires__Zzsmoresk_3c042d1ca2af2ca1accbf0333b38921a0d87dd0ce298b8a783b512ea79740e62_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SmoresandCampfires/Zzsmoresk/Crimson_Hill_Smores_and_Campfires__Zzsmoresk_3c042d1ca2af2ca1accbf0333b38921a0d87dd0ce298b8a783b512ea79740e62_S.jpg"
-      },
-      {
-        "gs1": "C127405769797",
-        "sheetRow": "8",
-        "baseCost": 25,
-        "weight": 0,
-        "sku": "CzzLvdr-515TC",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1534274396.jpg",
-        "colorGroupName": "Pink/Purple",
-        "collectionName": "Solid Lavender ",
-        "designName": "Zzlvdr-515",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "TC",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Solid_Lavender__Zzlvdr-515",
-        "images": [
-          {
-            "name": "Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a",
-            "imagePrefixPath": "crimson-hill/SolidLavender/Zzlvdr-515",
-            "colorGroupName": "Pink/Purple",
-            "size": "TC"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/SolidLavender/Zzlvdr-515",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:21.108Z",
-        "updatedAt": "2018-11-26T10:38:21.108Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 25,
-        "baseCost_max_c": 25,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 46,
-        "marketPrice_max_c": 46,
-        "mapPrice_min_c": 39,
-        "mapPrice_max_c": 39,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 55,
-        "salePrice_max_c": 55,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dccc",
-            "5bfbccc1aa69cb8365e7dccd",
-            "5bfbccc1aa69cb8365e7dccf",
-            "5bfbccc1aa69cb8365e7dcd0",
-            "5bfbccc1aa69cb8365e7dcce"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Pink/Purple",
-                  "key": "Pink/Purple",
-                  "val": "Pink/Purple"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "TC",
-                  "key": "TC",
-                  "val": "TC"
-                },
-                {
-                  "title": "TCC",
-                  "key": "TCC",
-                  "val": "TCC"
-                },
-                {
-                  "title": "OSC",
-                  "key": "OSC",
-                  "val": "OSC"
-                },
-                {
-                  "title": "TW",
-                  "key": "TW",
-                  "val": "TW"
-                },
-                {
-                  "title": "OS",
-                  "key": "OS",
-                  "val": "OS"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Pink/Purple"
-        ],
-        "size_c": [
-          "TC",
-          "TCC",
-          "OSC",
-          "TW",
-          "OS"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd1daa69cb8365e7de09",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavender/Zzlvdr-515/Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavender/Zzlvdr-515/Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidLavender/Zzlvdr-515/Crimson_Hill_Solid_Lavender__Zzlvdr-515_fbc9f2c09a99f48e30c06c14796449e5b94b2cf38a29c0ba9873c557058a792a_S.jpg"
-      },
-      {
-        "gs1": "C285469653733",
-        "sheetRow": "4",
-        "baseCost": 25,
-        "weight": 0,
-        "sku": "CzzPink-190OSC",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1534274469.jpg",
-        "colorGroupName": "Pink/Purple",
-        "collectionName": "Solid Pink ",
-        "designName": "Zzpink-190",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "OSC",
-        "gender": "Women",
-        "vendorUniqueId": "Crimson Hill",
-        "productType": "configurable",
-        "img": "https://www.canahdesigns.com/plexum/catalog/products/1534274469.jpg",
-        "imgTable": "https://www.canahdesigns.com/plexum/catalog/products/1534274469.jpg",
-        "isPublish": true,
-        "fileName": "Crimson_Hill_Solid_Pink__Zzpink-190",
-        "images": [
-          {
-            "name": "Crimson_Hill_Solid_Pink__Zzpink-190_b3ec60cabc36aedd4a7ff171db83bb529a77ea69867ad5c1c4180feb60b58997",
-            "imagePrefixPath": "crimson-hill/SolidPink/Zzpink-190",
-            "colorGroupName": "Pink/Purple",
-            "size": "OSC"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/SolidPink/Zzpink-190",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:21.912Z",
-        "updatedAt": "2018-11-26T10:38:21.912Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 25,
-        "baseCost_max_c": 25,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 46,
-        "marketPrice_max_c": 46,
-        "mapPrice_min_c": 39,
-        "mapPrice_max_c": 39,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 55,
-        "salePrice_max_c": 55,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dcc8",
-            "5bfbccc1aa69cb8365e7dcc9",
-            "5bfbccc1aa69cb8365e7dcc7",
-            "5bfbccc1aa69cb8365e7dcc5",
-            "5bfbccc1aa69cb8365e7dcc6"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Pink/Purple",
-                  "key": "Pink/Purple",
-                  "val": "Pink/Purple"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "OSC",
-                  "key": "OSC",
-                  "val": "OSC"
-                },
-                {
-                  "title": "TW",
-                  "key": "TW",
-                  "val": "TW"
-                },
-                {
-                  "title": "OS",
-                  "key": "OS",
-                  "val": "OS"
-                },
-                {
-                  "title": "TC",
-                  "key": "TC",
-                  "val": "TC"
-                },
-                {
-                  "title": "TCC",
-                  "key": "TCC",
-                  "val": "TCC"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Pink/Purple"
-        ],
-        "size_c": [
-          "OSC",
-          "TW",
-          "OS",
-          "TC",
-          "TCC"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd1daa69cb8365e7de0d",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidPink/Zzpink-190/Crimson_Hill_Solid_Pink__Zzpink-190_b3ec60cabc36aedd4a7ff171db83bb529a77ea69867ad5c1c4180feb60b58997.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidPink/Zzpink-190/Crimson_Hill_Solid_Pink__Zzpink-190_b3ec60cabc36aedd4a7ff171db83bb529a77ea69867ad5c1c4180feb60b58997_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/SolidPink/Zzpink-190/Crimson_Hill_Solid_Pink__Zzpink-190_b3ec60cabc36aedd4a7ff171db83bb529a77ea69867ad5c1c4180feb60b58997_S.jpg"
-      },
-      {
-        "gs1": "C123456789103",
-        "sheetRow": "3",
-        "baseCost": 15,
-        "weight": 4,
-        "sku": "C123456m",
-        "quantity": 12,
-        "isActive": true,
-        "marketPrice": 122,
-        "isEcommerce": true,
-        "mapPrice": 12,
-        "salePrice": 18,
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91z1zHjs-EL._UX679_.jpg",
-        "colorGroupName": "Blue/Navy",
-        "collectionName": "SSSSS",
-        "designName": "BBBB",
-        "availability": "in stock",
-        "deliveryType": "Physycal",
-        "primaryMaterial": "cotton",
-        "size": "S",
-        "gender": "Men",
-        "packageInclude": "3 Pair",
-        "vendorUniqueId": "Crimson Hill",
-        "productType": "configurable",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/91z1zHjs-EL._UX679_.jpg",
-        "imgTable": "https://images-na.ssl-images-amazon.com/images/I/91z1zHjs-EL._UX679_.jpg",
-        "isPublish": true,
-        "fileName": "Crimson_Hill_SSSSS_BBBB",
-        "images": [
-          {
-            "name": "Crimson_Hill_art_d2sdsd_c4d017d04e8984f0a82fa57d7a8859495cbe38b67f21c1894b819b81c2c4a74b",
-            "imagePrefixPath": "crimson-hill/art/d2sdsd",
-            "colorGroupName": "Blue/Navy",
-            "size": "S"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/art/d2sdsd",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T11:35:26.022Z",
-        "updatedAt": "2018-11-26T11:35:26.022Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 15,
-        "baseCost_max_c": 15,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 4,
-        "weight_max_c": 4,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 12,
-        "quantity_max_c": 12,
-        "marketPrice_min_c": 122,
-        "marketPrice_max_c": 122,
-        "mapPrice_min_c": 12,
-        "mapPrice_max_c": 12,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 18,
-        "salePrice_max_c": 18,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbd593aa69cb8365e7de22",
-            "5bfbd593aa69cb8365e7de21",
-            "5bfbd593aa69cb8365e7de20",
-            "5bfbd593aa69cb8365e7de23"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Blue/Navy",
-                  "key": "Blue/Navy",
-                  "val": "Blue/Navy"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "S",
-                  "key": "S",
-                  "val": "S"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Blue/Navy"
-        ],
-        "size_c": [
-          "S"
-        ],
-        "adminClassOwner": "5bfbbe6daa69cb8365e7dc30",
-        "id": "5bfbda7eaa69cb8365e7de6f",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/art/d2sdsd/Crimson_Hill_art_d2sdsd_c4d017d04e8984f0a82fa57d7a8859495cbe38b67f21c1894b819b81c2c4a74b.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/art/d2sdsd/Crimson_Hill_art_d2sdsd_c4d017d04e8984f0a82fa57d7a8859495cbe38b67f21c1894b819b81c2c4a74b_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/art/d2sdsd/Crimson_Hill_art_d2sdsd_c4d017d04e8984f0a82fa57d7a8859495cbe38b67f21c1894b819b81c2c4a74b_S.jpg"
-      },
-      {
-        "gs1": "C613737507986",
-        "sheetRow": "84",
-        "baseCost": 18,
-        "weight": 0,
-        "sku": "CzzBaseballLXL",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 50,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 43,
-        "salePrice": 39,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525456591.jpg",
-        "colorGroupName": "Blue/Navy",
-        "collectionName": "Baseball Life ",
-        "designName": "Zzbaseballk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "LXL",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Baseball_Life__Zzbaseballk",
-        "images": [
-          {
-            "name": "Crimson_Hill_Baseball_Life__Zzbaseballk_d04ae1b307f33a940856cf442eba2e34b762dd3c41486dc39c47fb2de5ea64a6",
-            "imagePrefixPath": "crimson-hill/BaseballLife/Zzbaseballk",
-            "colorGroupName": "Blue/Navy",
-            "size": "LXL"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/BaseballLife/Zzbaseballk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:06.710Z",
-        "updatedAt": "2018-11-26T10:38:06.710Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 18,
-        "baseCost_max_c": 18,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 50,
-        "marketPrice_max_c": 50,
-        "mapPrice_min_c": 43,
-        "mapPrice_max_c": 43,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 39,
-        "salePrice_max_c": 39,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd18",
-            "5bfbccc1aa69cb8365e7dd19"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Blue/Navy",
-                  "key": "Blue/Navy",
-                  "val": "Blue/Navy"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                },
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Blue/Navy"
-        ],
-        "size_c": [
-          "LXL",
-          "SM"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd0eaa69cb8365e7ddab",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/BaseballLife/Zzbaseballk/Crimson_Hill_Baseball_Life__Zzbaseballk_d04ae1b307f33a940856cf442eba2e34b762dd3c41486dc39c47fb2de5ea64a6.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/BaseballLife/Zzbaseballk/Crimson_Hill_Baseball_Life__Zzbaseballk_d04ae1b307f33a940856cf442eba2e34b762dd3c41486dc39c47fb2de5ea64a6_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/BaseballLife/Zzbaseballk/Crimson_Hill_Baseball_Life__Zzbaseballk_d04ae1b307f33a940856cf442eba2e34b762dd3c41486dc39c47fb2de5ea64a6_S.jpg"
-      },
-      {
-        "gs1": "C889473717491",
-        "sheetRow": "75",
-        "baseCost": 18,
-        "weight": 0,
-        "sku": "CzzBasketballSM",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 50,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 43,
-        "salePrice": 39,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525466431.jpg",
-        "colorGroupName": "Black",
-        "collectionName": "Basketball ",
-        "designName": "Zzbasketballk",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "SM",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Basketball__Zzbasketballk",
-        "images": [
-          {
-            "name": "Crimson_Hill_Basketball__Zzbasketballk_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb",
-            "imagePrefixPath": "crimson-hill/Basketball/Zzbasketballk",
-            "colorGroupName": "Black",
-            "size": "SM"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/Basketball/Zzbasketballk",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:07.116Z",
-        "updatedAt": "2018-11-26T10:38:07.116Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 18,
-        "baseCost_max_c": 18,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 50,
-        "marketPrice_max_c": 50,
-        "mapPrice_min_c": 43,
-        "mapPrice_max_c": 43,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 39,
-        "salePrice_max_c": 39,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd0f",
-            "5bfbccc1aa69cb8365e7dd0e"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Black",
-                  "key": "Black",
-                  "val": "Black"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "SM",
-                  "key": "SM",
-                  "val": "SM"
-                },
-                {
-                  "title": "LXL",
-                  "key": "LXL",
-                  "val": "LXL"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Black"
-        ],
-        "size_c": [
-          "SM",
-          "LXL"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd0faa69cb8365e7ddae",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/Basketball/Zzbasketballk/Crimson_Hill_Basketball__Zzbasketballk_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/Basketball/Zzbasketballk/Crimson_Hill_Basketball__Zzbasketballk_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/Basketball/Zzbasketballk/Crimson_Hill_Basketball__Zzbasketballk_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb_S.jpg"
-      },
-      {
-        "gs1": "C679026834386",
-        "sheetRow": "72",
-        "baseCost": 25,
-        "weight": 0,
-        "sku": "CzzBasketballOS",
-        "quantity": 1,
-        "isActive": true,
-        "marketPrice": 46,
-        "vendorName": "Crimson Hill",
-        "isEcommerce": true,
-        "mapPrice": 39,
-        "salePrice": 55,
-        "imageURL": "https://www.canahdesigns.com/plexum/catalog/products/1525466431.jpg",
-        "colorGroupName": "Black",
-        "collectionName": "Basketball ",
-        "designName": "Zzbasketball",
-        "availability": "In-Stock",
-        "deliveryType": "Physical",
-        "primaryMaterial": "Synthetic",
-        "size": "OS",
-        "gender": "Women",
-        "isPublish": true,
-        "productType": "configurable",
-        "fileName": "Crimson_Hill_Basketball__Zzbasketball",
-        "images": [
-          {
-            "name": "Crimson_Hill_Basketball__Zzbasketball_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb",
-            "imagePrefixPath": "crimson-hill/Basketball/Zzbasketball",
-            "colorGroupName": "Black",
-            "size": "OS"
-          }
-        ],
-        "imageCategory": [],
-        "additionalImages": [],
-        "vendorUniqueId": "Crimson Hill",
-        "vendorOwner": "5bfa5200aa69cb8365e7cd4d",
-        "isNewArrival": true,
-        "imagePrefixPath": "crimson-hill/Basketball/Zzbasketball",
-        "width_ft": 0,
-        "width_in": 0,
-        "length_ft": 0,
-        "length_in": 0,
-        "createdAt": "2018-11-26T10:38:07.117Z",
-        "updatedAt": "2018-11-26T10:38:07.117Z",
-        "shapeSize": "undefined undefined",
-        "baseCost_min_c": 25,
-        "baseCost_max_c": 25,
-        "shipCountOfCarton_min_c": 0,
-        "shipCountOfCarton_max_c": 0,
-        "shipWidth_min_c": 0,
-        "shipWidth_max_c": 0,
-        "weight_min_c": 0,
-        "weight_max_c": 0,
-        "warrantyMonthCount_min_c": 0,
-        "warrantyMonthCount_max_c": 0,
-        "msrpPrice_min_c": 0,
-        "msrpPrice_max_c": 0,
-        "shipWeight_min_c": 0,
-        "shipWeight_max_c": 0,
-        "quantity_min_c": 1,
-        "quantity_max_c": 1,
-        "marketPrice_min_c": 46,
-        "marketPrice_max_c": 46,
-        "mapPrice_min_c": 39,
-        "mapPrice_max_c": 39,
-        "shipHeight_min_c": 0,
-        "shipHeight_max_c": 0,
-        "salePrice_min_c": 55,
-        "salePrice_max_c": 55,
-        "shipLength_min_c": 0,
-        "shipLength_max_c": 0,
-        "wattage_min_c": 0,
-        "wattage_max_c": 0,
-        "productTypeConfig": {
-          "items": [
-            "5bfbccc1aa69cb8365e7dd0c",
-            "5bfbccc1aa69cb8365e7dd0d",
-            "5bfbccc1aa69cb8365e7dd0b"
-          ],
-          "options": [
-            {
-              "name": "colorGroupName",
-              "fieldName": "colorGroupName",
-              "items": [
-                {
-                  "title": "Black",
-                  "key": "Black",
-                  "val": "Black"
-                }
-              ]
-            },
-            {
-              "name": "size",
-              "fieldName": "size",
-              "items": [
-                {
-                  "title": "OS",
-                  "key": "OS",
-                  "val": "OS"
-                },
-                {
-                  "title": "TW",
-                  "key": "TW",
-                  "val": "TW"
-                },
-                {
-                  "title": "TC",
-                  "key": "TC",
-                  "val": "TC"
-                }
-              ]
-            }
-          ]
-        },
-        "colorGroupName_c": [
-          "Black"
-        ],
-        "size_c": [
-          "OS",
-          "TW",
-          "TC"
-        ],
-        "adminClassOwner": "5bfbbe3eaa69cb8365e7dc2e",
-        "id": "5bfbcd0faa69cb8365e7ddaf",
-        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/Basketball/Zzbasketball/Crimson_Hill_Basketball__Zzbasketball_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb.jpg",
-        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/Basketball/Zzbasketball/Crimson_Hill_Basketball__Zzbasketball_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb_T.jpg",
-        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/Basketball/Zzbasketball/Crimson_Hill_Basketball__Zzbasketball_8d40af8b4980d07d426133873368ff93da62079de1efd0dcfe5b275e0b2a18cb_S.jpg"
+        "id": "5bfc18d0aa69cb8365e7e520",
+        "mainImage": "https://rmimages2.blob.core.windows.net/crimson-hill/Shamskulls/Zzspshamskulls/Crimson_Hill_Shamskulls__Zzspshamskulls_87ca0f2e190a02c448921c27ec97e217803547a33023694e85a9a5bde1928f85.jpg",
+        "mainImage_T": "https://rmimages2.blob.core.windows.net/crimson-hill/Shamskulls/Zzspshamskulls/Crimson_Hill_Shamskulls__Zzspshamskulls_87ca0f2e190a02c448921c27ec97e217803547a33023694e85a9a5bde1928f85_T.jpg",
+        "mainImage_M": "https://rmimages2.blob.core.windows.net/crimson-hill/Shamskulls/Zzspshamskulls/Crimson_Hill_Shamskulls__Zzspshamskulls_87ca0f2e190a02c448921c27ec97e217803547a33023694e85a9a5bde1928f85_S.jpg"
       }
     ]
   }

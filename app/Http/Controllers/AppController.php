@@ -323,8 +323,8 @@ class AppController extends Controller
 
         $options_list = ['shapeSize', 'colorGroupName', 'sizeName'];
 
-        $tagKeys = ['brandName', 'collor', 'constructionName', 'collectionName', 'fieldDesignName', 'vendorUniqueId', 'originCountryName', 'primaryMaterialName','primaryStyleName', 'sizeName' ,'sku','shapeName','size'];
-        $speciKeys = ['brandName', 'collor', 'collectionName', 'designName', 'primaryStyleName', 'colorGroupName', 'originCountryName', 'primaryMaterialName', 'constructionName', 'fieldDesignName','sku','shapeName','size'];
+        $tagKeys = ['gender','primaryMaterial','secondaryMaterial','gender','brandName', 'collor', 'constructionName', 'collectionName', 'fieldDesignName', 'vendorUniqueId', 'originCountryName', 'primaryMaterialName','primaryStyleName', 'sizeName' ,'sku','shapeName','size'];
+        $speciKeys = ['gender','primaryMaterial','secondaryMaterial','gender','brandName', 'collor', 'collectionName', 'designName', 'primaryStyleName', 'colorGroupName', 'originCountryName', 'primaryMaterialName', 'constructionName', 'fieldDesignName','sku','shapeName','size'];
         $x = 0;
 //        $myfile = fopen("newfile.txt", "wb") or die("Unable to open file!");
 //        $txt = $count;
@@ -368,7 +368,8 @@ class AppController extends Controller
                     'product' => [
                         //   "title"=> $value['title'],
 //                        "handle"=> $value['key'],
-                        "title" => $value['vendorUniqueId']." " . $value['collectionName']. " ". $value['designName'],
+                     //  "title" => $value['vendorUniqueId']." " . $value['collectionName']. " ". $value['designName'],
+                        "title" => $value['titleDescription'],
                         "body_html"=> $this->getDesc($value),
                         "vendor" => $value['vendorUniqueId'],
                         "imagePrefixPath" => $value['imagePrefixPath'],
@@ -445,6 +446,10 @@ class AppController extends Controller
                                 'shapeSize',
                                 'sku',
                                 'title',
+                                'titleDescription',
+                                'primaryMaterial',
+                                'secondaryMaterial',
+
                                 //   'imagePrefixPath'
                             ];
                             $fullMetafields1=$images1=$additionalImages1=array();
@@ -1050,7 +1055,8 @@ class AppController extends Controller
 //                        "handle"=> $value['key'],
                             "body_html"=> $this->getDesc($value),
                             "vendor" => $value['vendorUniqueId'],
-                            "title" => $value['vendorUniqueId']." " . $value['collectionName']. " ". $value['designName'],
+                            //"title" => $value['vendorUniqueId']." " . $value['collectionName']. " ". $value['designName'],
+                            "title" => $value['titleDescription'],
                             "imagePrefixPath" => $value['imagePrefixPath'],
                             "price" => $this->_getPrices($value),
                             "product_type"=> (isset($value['viewTemplatePrefix']))?$value['viewTemplatePrefix']:'rug',
